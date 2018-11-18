@@ -4,6 +4,14 @@ Assembly project that sorts and adds two integer values.
 Additional changes made to fix the top.
 
 
+
+
+
+
+
+
+
+
 .data
 	message1: .asciiz "Please enter your first number.\n"
 	message2: .asciiz "Please enter your second number.\n"
