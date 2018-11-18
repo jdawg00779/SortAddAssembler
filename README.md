@@ -2,15 +2,7 @@
 Assembly project that sorts and adds two integer values.
 
 Additional changes made to fix the top.
-
-
-
-
-
-
-
-
-
+#Something going on here.
 
 .data
 	message1: .asciiz "Please enter your first number.\n"
